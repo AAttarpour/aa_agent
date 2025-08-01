@@ -16,7 +16,7 @@ This repository contains a collection of Jupyter notebooks I created while learn
 - More scripts are coming.
 - Each script is annotated and self-contained for ease of understanding and modification.
 - Ideal for those getting started with LLM-based agent design and LangChain tooling.
-- Based on tutorials from the [LangGraph Agents YouTube Playlist](https://www.youtube.com/playlist list=PLQxDHpeGU14AJ4sBRWLBqjMthxrLXJmgF).
+- Inspired by tutorials from the [LangGraph Agents YouTube Playlist](https://www.youtube.com/playlist list=PLQxDHpeGU14AJ4sBRWLBqjMthxrLXJmgF).
 
 ---
 
